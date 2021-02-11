@@ -1,0 +1,15 @@
+h1 {
+    color: white /* changes heading1 color to white */
+}
+
+h2 {
+    color: white /* changes heading2 color to white */
+}
+
+body {
+    background-color: gold /* changes background color to gold */
+}
+
+p {
+	font-family: Arial /* changes paragraph font to arial */
+}
