@@ -7,11 +7,14 @@ HW05 -- Stuylin'
 
 
 h1 {
-    color: white /* changes heading1 color to white */
+    color: silver ;/* changes heading1 color, font and font style */
+	font-family: fantasy ;
+	font-style: italic
 }
 
 h2 {
-    color: white /* changes heading2 color to white */
+    color: white; /* changes heading2 color to white */
+	font-family: monospace
 }
 
 body {
@@ -19,5 +22,5 @@ body {
 }
 
 p {
-	font-family: Arial /* changes paragraph font to arial */
+	font-family: cursive /* changes paragraph font to cursive */
 }
